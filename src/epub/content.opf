@@ -103,6 +103,7 @@
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
+		<itemref idref="imprint.xhtml"/>
 		<itemref idref="the-admirable-bashville.xhtml"/>
 		<itemref idref="how-he-lied-to-her-husband.xhtml"/>
 		<itemref idref="passion-poison-and-petrifatcion.xhtml"/>
@@ -120,7 +121,6 @@
 		<itemref idref="o-flaherty-v-c.xhtml"/>
 		<itemref idref="annajanska.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
-		<itemref idref="imprint.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
