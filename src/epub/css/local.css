@@ -186,3 +186,15 @@ tr.together td + td{
 [epub|type~="z3998:verse"] [epub|type~="bridgehead"]{
 	text-align: justify;
 }
+
+/* Play-specific CSS */
+/* The Dark Lady of the Sonnets */
+#the-dark-lady-of-the-sonnets footer{
+	margin-top: 1em;
+	text-align: initial;
+}
+
+/* Miscellaneous */
+abbr[epub|type~="se:era"]{
+	font-variant: all-small-caps;
+}

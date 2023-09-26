@@ -35,7 +35,7 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
 		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A collection of sixteen short plays by Shaw.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
@@ -87,7 +87,7 @@
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/o-flaherty-v-c.xhtml" id="o-flaherty-v-c.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/overruled.xhtml" id="overruled.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/passion-poison-and-petrifatcion.xhtml" id="passion-poison-and-petrifatcion.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/passion-poison-and-petrifaction.xhtml" id="passion-poison-and-petrifaction.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/press-cuttings.xhtml" id="press-cuttings.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-admirable-bashville.xhtml" id="the-admirable-bashville.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-dark-lady-of-the-sonnets.xhtml" id="the-dark-lady-of-the-sonnets.xhtml" media-type="application/xhtml+xml"/>
@@ -106,7 +106,7 @@
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="the-admirable-bashville.xhtml"/>
 		<itemref idref="how-he-lied-to-her-husband.xhtml"/>
-		<itemref idref="passion-poison-and-petrifatcion.xhtml"/>
+		<itemref idref="passion-poison-and-petrifaction.xhtml"/>
 		<itemref idref="the-interlude-at-the-playhouse.xhtml"/>
 		<itemref idref="the-fascinating-foundling.xhtml"/>
 		<itemref idref="the-glimpse-of-reality.xhtml"/>
