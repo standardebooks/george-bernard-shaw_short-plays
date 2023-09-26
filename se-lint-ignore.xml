@@ -7,7 +7,23 @@
 		</ignore>
 		<ignore>
 			<code>t-052</code>
-			<reason>Stage direction interjection correctly formatted.</reason>
+			<reason>Stage direction is an interjection correctly formatted.</reason>
+		</ignore>
+	</file>
+	<file path="the-inca-of-perusalem.xhtml">
+		<ignore>
+			<code>t-053</code>
+			<reason>Stage direction is an interjection correctly formatted.</reason>
+		</ignore>
+	</file>
+	<file path="the-music-cure.xhtml">
+		<ignore>
+			<code>t-018</code>
+			<reason>Parser confused by line of dialogue made up entirely of punctuation.</reason>
+		</ignore>
+		<ignore>
+			<code>t-052</code>
+			<reason>Stage direction is an interjection correctly formatted.</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>
