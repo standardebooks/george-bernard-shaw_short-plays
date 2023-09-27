@@ -100,26 +100,6 @@ i [epub|type~="z3998:persona"]{
 	font-variant: all-small-caps;
 }
 
-/* Editorial stage directions */
-[epub|type~="z3998:stage-direction"].editorial::before{
-	content: "[";
-}
-
-[epub|type~="z3998:stage-direction"].editorial::after{
-	content: "]";
-}
-
-/* Abbreviated stage directions */
-abbr[epub|type~="z3998:stage-direction"]{
-	font-style: normal;
-	font-variant: all-small-caps;
-}
-
-abbr[epub|type~="z3998:stage-direction"]::before,
-abbr[epub|type~="z3998:stage-direction"]::after{
-	content: "";
-}
-
 /* Together CSS (for multiple speakers speaking together) */
 tr.together{
 	break-inside: avoid;
@@ -150,21 +130,6 @@ tr.together td + td{
 	hyphens: none;
 	-epub-hyphens: none;
 }
-
-[epub|type~="epigraph"] em,
-[epub|type~="epigraph"] i{
-	font-style: normal;
-}
-
-[epub|type~="epigraph"] cite{
-	font-style: normal;
-	font-variant: small-caps;
-	margin-top: 1em;
-}
-
-[epub|type~="epigraph"] cite i{
-	font-style: italic;
-}
 /* End all epigraphs */
 
 /* Bridgeheads */
@@ -176,13 +141,7 @@ tr.together td + td{
 	text-indent: 0;
 }
 
-[epub|type~="bridgehead"] i{
-	font-style: normal;
-}
-
-[epub|type~="z3998:hymn"] [epub|type~="bridgehead"],
 [epub|type~="z3998:poem"] [epub|type~="bridgehead"],
-[epub|type~="z3998:song"] [epub|type~="bridgehead"],
 [epub|type~="z3998:verse"] [epub|type~="bridgehead"]{
 	text-align: justify;
 }

@@ -28,25 +28,16 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Short Plays</dc:title>
 		<meta property="file-as" refines="#title">Short Plays</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
-		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">LCSH_ID_1</meta>
-		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
-		<meta property="se:subject">TAG</meta>
+		<meta property="se:subject">Drama</meta>
 		<dc:description id="description">A collection of sixteen short plays by Shaw.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
 		<dc:language>en-GB</dc:language>
-		<dc:source>PG_URL</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">Shaw was a lifelong spelling reformer whose plays were printed in his lifetime with certain idiosyncrasies. To conform with modern standards, this edition adds apostrophes in words where Shaw typically omitted them, such as “dont” and “weve.” The spelling of certain words, including “shew” (“show”), have also been modernized, including in the title of the play “The Shewing-Up of Blanco Posnet.”</meta>
 		<meta property="se:is-a-collection">true</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-bernard-shaw_short-plays</meta>
 		<dc:creator id="author">George Bernard Shaw</dc:creator>
 		<meta property="file-as" refines="#author">Shaw, George Bernard</meta>
@@ -58,13 +49,68 @@
 		<dc:contributor id="artist">Hippolyte Michaud</dc:contributor>
 		<meta property="file-as" refines="#artist">Michaud, Hippolyte</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<!--The Admirable Bashville-->
+		<dc:source>https://www.gutenberg.org/ebooks/33085</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/001373880</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/009978506</dc:source>
+		<dc:contributor id="transcriber-1">Chuck Greif</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Greif, Chuck</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-2">Fox in the Stars</dc:contributor>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<meta property="file-as" refines="#transcriber-2">Fox in the Stars</meta>
+		<dc:contributor id="transcriber-3">The Online Distributed Proofreading Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
+		<meta property="se:url.homepage" refines="#transcriber-3">https://www.pgdp.net</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:subject id="subject-1">Boxing</dc:subject>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85016186</meta>
+		<dc:subject id="subject-2">Boxing -- Drama</dc:subject>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">Unknown</meta>
+		<!-- How He Lied to Her Husband -->
+		<dc:source>https://www.gutenberg.org/ebooks/3544</dc:source>
+		<dc:source>https://archive.org/details/johnbullsotheris00shawrich/</dc:source>
+		<dc:contributor id="transcriber-4">Eve Sobol</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">Sobol, Eve</meta>
+		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-5">David Widger</dc:contributor>
+		<meta property="file-as" refines="#transcriber-5">Widger, David</meta>
+		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
+		<dc:subject id="subject-3">English drama (Comedy)</dc:subject>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh85043353</meta>
+		<dc:subject id="subject-4">Marriage--Drama</dc:subject>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh2008107247</meta>
+		<dc:subject id="subject-5">Triangles (Interpersonal relations)--Drama</dc:subject>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh2008113003</meta>
+		<dc:subject id="subject-6">London (England)--Drama</dc:subject>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">sh2008116057</meta>
+		<!-- Passion Poison and Petrifaction -->
+		<dc:source>https://en.wikisource.org/wiki/Passion,_Poison,_and_Petrifaction</dc:source>
+		<!-- image source same as The Admirable Bashville -->
+		<dc:contributor id="transcriber-n">Wugo</dc:contributor>
+		<meta property="file-as" refines="#transcriber-n">Wugo</meta>
+		<meta property="role" refines="#transcriber-n" scheme="marc:relators">trc</meta>
+		<!-- The Interlude at the Playhouse -->
+		<!-- The Fascinating Foundling -->
+		<!-- The Glimpse of Reality -->
+		<!-- The Showing-Up of Blanco Posnet -->
+		<!-- Press Cuttings -->
+		<!-- The Dark Lady of the Sonnets -->
+		<!-- Overruled -->
+		<!-- Great Catherine -->
+		<!-- The Music Cure -->
+		<!-- The Inca of Perusalem -->
+		<!-- Augustus Does His Bit -->
+		<!-- O'Flaherty V.C. -->
+		<!-- Annajanska -->
+		<dc:contributor id="producer-1">Christopher Hapka</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Hapka, Christopher</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
