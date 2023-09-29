@@ -10,6 +10,11 @@ article > header{
 	break-after: page;
 }
 
+/* Remove text indent from scene description */
+[epub|type~="z3998:scene"] > p{
+	text-indent: 0;
+}
+
 /* Dialogue table */
 [epub|type~="z3998:drama"] table,
 table[epub|type~="z3998:drama"]{
@@ -147,6 +152,12 @@ tr.together td + td{
 }
 
 /* Play-specific CSS */
+/* The Admirable Bashville */
+.the-admirable-bashville-act-1,
+.the-admirable-bashville-act-2,{
+	break-after: page;
+}
+
 /* The Dark Lady of the Sonnets */
 #the-dark-lady-of-the-sonnets footer{
 	margin-top: 1em;
