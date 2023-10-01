@@ -101,6 +101,9 @@
 		<dc:source>https://archive.org/details/behindsceneswith0000hims/</dc:source>
 		<!-- The Fascinating Foundling -->
 		<dc:source>https://gutenberg.net.au/ebooks03/0300461h.html</dc:source>
+		<dc:contributor id="transcriber-6">Don Lainson</dc:contributor>
+		<meta property="file-as" refines="#transcriber-6">Lainson, Don</meta>
+		<meta property="role" refines="#transcriber-6" scheme="marc:relators">trc</meta>
 		<!-- image source same as The Admirable Bashville -->
 		<!-- The Glimpse of Reality -->
 		<dc:source>https://gutenberg.net.au/ebooks03/0300471h.html</dc:source>
@@ -108,6 +111,15 @@
 		<!-- The Showing-Up of Blanco Posnet -->
 		<dc:source>https://www.gutenberg.org/ebooks/5722</dc:source>
 		<dc:source>https://archive.org/details/doctorsdilemmage0000bern/</dc:source>
+		<dc:subject id="subject-7">Censorship</dc:subject>
+		<meta property="authority" refines="#subject-7">LCSH</meta>
+		<meta property="term" refines="#subject-7">sh85021828</meta>
+		<dc:subject id="subject-8">Horse stealing -- Drama</dc:subject>
+		<meta property="authority" refines="#subject-8">LCSH</meta>
+		<meta property="term" refines="#subject-8">Unknown</meta>
+		<dc:subject id="subject-9">West (U.S.) -- Drama</dc:subject>
+		<meta property="authority" refines="#subject-9">LCSH</meta>
+		<meta property="term" refines="#subject-9">sh2014000895</meta>
 		<!-- Press Cuttings -->
 		<!-- The Dark Lady of the Sonnets -->
 		<!-- Overruled -->
