@@ -97,9 +97,17 @@
 		<meta property="file-as" refines="#transcriber-n">Wugo</meta>
 		<meta property="role" refines="#transcriber-n" scheme="marc:relators">trc</meta>
 		<!-- The Interlude at the Playhouse -->
+		<dc:source>https://en.wikisource.org/wiki/The_Interlude_at_the_Playhouse</dc:source>
+		<dc:source>https://archive.org/details/behindsceneswith0000hims/</dc:source>
 		<!-- The Fascinating Foundling -->
+		<dc:source>https://gutenberg.net.au/ebooks03/0300461h.html</dc:source>
+		<!-- image source same as The Admirable Bashville -->
 		<!-- The Glimpse of Reality -->
+		<dc:source>https://gutenberg.net.au/ebooks03/0300471h.html</dc:source>
+		<!-- image source same as The Admirable Bashville -->
 		<!-- The Showing-Up of Blanco Posnet -->
+		<dc:source>https://www.gutenberg.org/ebooks/5722</dc:source>
+		<dc:source>https://archive.org/details/doctorsdilemmage0000bern/</dc:source>
 		<!-- Press Cuttings -->
 		<!-- The Dark Lady of the Sonnets -->
 		<!-- Overruled -->
