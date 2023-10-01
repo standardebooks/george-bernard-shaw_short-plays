@@ -154,7 +154,7 @@ tr.together td + td{
 /* Play-specific CSS */
 /* The Admirable Bashville */
 .the-admirable-bashville-act-1,
-.the-admirable-bashville-act-2,{
+.the-admirable-bashville-act-2{
 	break-after: page;
 }
 
