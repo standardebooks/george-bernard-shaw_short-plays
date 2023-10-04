@@ -11,8 +11,6 @@ article > header{
 }
 
 /* Preface headers */
-
-
 [epub|type~="preface"] header{
 	break-after: avoid;
 	font-variant: small-caps;
@@ -171,6 +169,12 @@ tr.together td + td{
 
 /* The Dark Lady of the Sonnets */
 #the-dark-lady-of-the-sonnets footer{
+	margin-top: 1em;
+	text-align: initial;
+}
+
+/* Annajanska */
+#annajanska footer{
 	margin-top: 1em;
 	text-align: initial;
 }
