@@ -205,6 +205,12 @@ tr.together td + td{
 	list-style-type: lower-alpha;
 }
 
+/* Press Cuttings */
+
+#press-cuttings-preface{
+margin-top: 8em;
+}
+
 /* Miscellaneous */
 abbr[epub|type~="se:era"]{
 	font-variant: all-small-caps;
