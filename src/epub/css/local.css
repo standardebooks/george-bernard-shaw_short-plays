@@ -179,6 +179,18 @@ tr.together td + td{
 	text-align: initial;
 }
 
+/* Blanco */
+#the-showing-up-of-blanco-posnet footer{
+	margin-top: 1em;
+	text-align: initial;
+}
+
+#the-showing-up-of-blanco-posnet [epub|type~="z3998:postscript"]{
+	margin-top: 2em;
+	text-align: initial;
+	text-indent: 0;
+}
+
 /* Miscellaneous */
 abbr[epub|type~="se:era"]{
 	font-variant: all-small-caps;
