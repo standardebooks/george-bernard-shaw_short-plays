@@ -121,7 +121,20 @@
 		<meta property="authority" refines="#subject-9">LCSH</meta>
 		<meta property="term" refines="#subject-9">sh2014000895</meta>
 		<!-- Press Cuttings -->
+		<dc:source>https://www.gutenberg.org/ebooks/5723</dc:source>
+		<!-- image source same as The Admirable Bashville -->
+		<dc:subject id="subject-10">Women -- Suffrage -- Great Britain -- Drama</dc:subject>
+		<meta property="authority" refines="#subject-10">LCSH</meta>
+		<meta property="term" refines="#subject-10">Unknown</meta>
 		<!-- The Dark Lady of the Sonnets -->
+		<dc:source>https://www.gutenberg.org/ebooks/1050</dc:source>
+		<dc:source>https://archive.org/details/misalliancedarkl0000shaw/</dc:source>
+		<dc:contributor id="transcriber-7">Ron Burkey</dc:contributor>
+		<meta property="file-as" refines="#transcriber-7">Burkey, Ron</meta>
+		<meta property="role" refines="#transcriber-7" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-8">Amy Thomte</dc:contributor>
+		<meta property="file-as" refines="#transcriber-8">Thomte, Amy</meta>
+		<meta property="role" refines="#transcriber-8" scheme="marc:relators">trc</meta>
 		<!-- Overruled -->
 		<!-- Great Catherine -->
 		<!-- The Music Cure -->
