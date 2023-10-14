@@ -135,7 +135,18 @@
 		<dc:contributor id="transcriber-8">Amy Thomte</dc:contributor>
 		<meta property="file-as" refines="#transcriber-8">Thomte, Amy</meta>
 		<meta property="role" refines="#transcriber-8" scheme="marc:relators">trc</meta>
+		<dc:subject id="subject-7">Man-woman relationships -- Drama</dc:subject>
+		<meta property="authority" refines="#subject-7">LCSH</meta>
+		<meta property="term" refines="#subject-7">sh2008107215</meta>
+		<dc:subject id="subject-8">Fitton, Mary, 1578?-1641 -- Drama</dc:subject>
+		<meta property="authority" refines="#subject-8">LCSH</meta>
+		<meta property="term" refines="#subject-8">Unknown</meta>
 		<!-- Overruled -->
+		<dc:source>https://www.gutenberg.org/ebooks/3830</dc:source>
+		<dc:source>https://archive.org/details/androcleslionove00shawuoft</dc:source>
+		<dc:contributor id="transcriber-9">Al Haines</dc:contributor>
+		<meta property="file-as" refines="#transcriber-8">Haines, Al</meta>
+		<meta property="role" refines="#transcriber-8" scheme="marc:relators">trc</meta>
 		<!-- Great Catherine -->
 		<!-- The Music Cure -->
 		<!-- The Inca of Perusalem -->
