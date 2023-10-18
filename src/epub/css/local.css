@@ -174,7 +174,9 @@ tr.together td + td{
 }
 
 /* The Dark Lady of the Sonnets */
-#the-dark-lady-of-the-sonnets footer{
+/* Great Catherine */
+#the-dark-lady-of-the-sonnets footer,
+#great-catherine footer {
 	margin-top: 1em;
 	text-align: initial;
 }
