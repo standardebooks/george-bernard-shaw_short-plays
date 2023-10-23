@@ -168,15 +168,20 @@ tr.together td + td{
 
 /* Play-specific CSS */
 /* The Admirable Bashville */
+/* Inca of Perusalem */
 #the-admirable-bashville-act-1,
-#the-admirable-bashville-act-2{
+#the-admirable-bashville-act-2,
+#the-inca-of-perusalem-prologue {
 	break-after: page;
 }
 
 /* The Dark Lady of the Sonnets */
 /* Great Catherine */
+/* Inca of Perusalem */
 #the-dark-lady-of-the-sonnets footer,
-#great-catherine footer{
+#great-catherine footer,
+#the-inca-of-perusalem footer,
+#augustus-does-his-bit footer {
 	margin-top: 1em;
 	text-align: initial;
 }
