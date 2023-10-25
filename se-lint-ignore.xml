@@ -19,6 +19,10 @@
 			<code>t-052</code>
 			<reason>Stage direction is an interjection correctly formatted.</reason>
 		</ignore>
+		<ignore>
+			<code>t-053</code>
+			<reason>Stage direction is an interjection correctly formatted.</reason>
+		</ignore>
 	</file>
 	<file path="the-music-cure.xhtml">
 		<ignore>
