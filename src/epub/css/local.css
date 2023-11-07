@@ -177,11 +177,13 @@ tr.together td + td{
 /* Inca of Perusalem */
 #the-admirable-bashville-act-1,
 #the-admirable-bashville-act-2,
+#the-admirable-bashville-act-3,
 #the-inca-of-perusalem-prologue{
 	break-after: page;
 }
 
 /* The Dark Lady of the Sonnets */
+/* How He Lied to Her Husband */
 /* Great Catherine */
 /* Inca of Perusalem */
 /* Annajanska */
@@ -200,7 +202,8 @@ tr.together td + td{
 	text-align: initial;
 }
 
-#the-showing-up-of-blanco-posnet [epub|type~="z3998:postscript"]{
+#the-showing-up-of-blanco-posnet [epub|type~="z3998:postscript"],
+#how-he-lied-to-her-husband [epub|type~="z3998:postscript"]{
 	margin-top: 2em;
 	text-align: initial;
 	text-indent: 0;

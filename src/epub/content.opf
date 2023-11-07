@@ -170,13 +170,8 @@
 		<dc:subject id="subject-13">World War, 1914-1918 -- Great Britain -- Drama</dc:subject>
 		<meta property="authority" refines="#subject-13">LCSH</meta>
 		<meta property="term" refines="#subject-13">Unknown</meta>
-
-
-
-
 		<!-- O'Flaherty V.C. -->
 		<dc:source>https://www.gutenberg.org/ebooks/3484</dc:source>
-		
 		<dc:subject id="subject-14">Ireland -- Drama</dc:subject>
 		<meta property="authority" refines="#subject-14">LCSH</meta>
 		<meta property="term" refines="#subject-14">sh2008115496</meta>
@@ -186,32 +181,20 @@
 		<dc:subject id="subject-16">World War, 1914-1918 -- Veterans -- Drama</dc:subject>
 		<meta property="authority" refines="#subject-16">LCSH</meta>
 		<meta property="term" refines="#subject-16">Unknown</meta>
-		
-		
 		<!-- Annajanska -->
 		<dc:source>https://www.gutenberg.org/ebooks/3485</dc:source>
-
 		<dc:subject id="subject-17">World War, 1914-1918 -- Drama</dc:subject>
 		<meta property="authority" refines="#subject-17">LCSH</meta>
 		<meta property="term" refines="#subject-17">sh2008113813</meta>
-
-
 		<dc:subject id="subject-18">Communism -- Drama</dc:subject>
 		<meta property="authority" refines="#subject-18">LCSH</meta>
 		<meta property="term" refines="#subject-18">Unknown</meta>
-
-
 		<dc:subject id="subject-19">Nobility -- Drama</dc:subject>
 		<meta property="authority" refines="#subject-19">LCSH</meta>
 		<meta property="term" refines="#subject-19">Unknown</meta>
-
-
 		<dc:subject id="subject-20">Soviet Union -- Drama</dc:subject>
 		<meta property="authority" refines="#subject-20">LCSH</meta>
 		<meta property="term" refines="#subject-20">Unknown</meta>
-
-
-
 		<dc:contributor id="producer-1">Christopher Hapka</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Hapka, Christopher</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
