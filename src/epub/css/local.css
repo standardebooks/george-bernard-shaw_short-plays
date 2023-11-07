@@ -183,7 +183,6 @@ tr.together td + td{
 }
 
 /* The Dark Lady of the Sonnets */
-/* How He Lied to Her Husband */
 /* Great Catherine */
 /* Inca of Perusalem */
 /* Annajanska */
@@ -196,17 +195,19 @@ tr.together td + td{
 	text-align: initial;
 }
 
-/* Blanco */
-#the-showing-up-of-blanco-posnet footer{
-	margin-top: 1em;
-	text-align: initial;
-}
-
+/* Blanco Posnet */
+/* How He Lied to Her Husband */
 #the-showing-up-of-blanco-posnet [epub|type~="z3998:postscript"],
 #how-he-lied-to-her-husband [epub|type~="z3998:postscript"]{
 	margin-top: 2em;
 	text-align: initial;
 	text-indent: 0;
+}
+
+/* Blanco Posnet */
+#the-showing-up-of-blanco-posnet footer{
+	margin-top: 1em;
+	text-align: initial;
 }
 
 #the-showing-up-of-blanco-posnet-preface-4 ol:nth-of-type(1){
