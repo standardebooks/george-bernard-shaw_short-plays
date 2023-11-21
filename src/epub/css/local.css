@@ -37,8 +37,7 @@ article > header{
 }
 
 /* Dialogue table */
-[epub|type~="z3998:drama"] table,
-table[epub|type~="z3998:drama"]{
+[epub|type~="z3998:drama"] table{
 	border-collapse: collapse;
 	margin: 1em auto;
 	width: 100%;
@@ -97,17 +96,12 @@ section[epub|type~="z3998:scene"] > p{
 	margin: 1em;
 }
 
-[epub|type~="z3998:dramatis-personae"] ul + p{
-	margin-top: 2em;
-}
-
 /* Stage directions and personas */
 [epub|type~="z3998:stage-direction"]{
 	font-style: italic;
 }
 
 [epub|type~="z3998:stage-direction"] [epub|type~="z3998:persona"],
-em [epub|type~="z3998:persona"],
 i [epub|type~="z3998:persona"]{
 	font-style: normal;
 }
@@ -136,14 +130,8 @@ tr.together td{
 	vertical-align: middle;
 }
 
-tr.together td:only-child,
 tr.together td + td{
 	border-left: 1px solid;
-}
-
-.together + .together td[rowspan],
-.together + .together td[rowspan] + td{
-	padding-top: .5em;
 }
 
 [epub|type~="z3998:drama"] .together td:last-child{
@@ -167,8 +155,8 @@ tr.together td + td{
 	text-indent: 0;
 }
 
-[epub|type~="z3998:poem"] [epub|type~="bridgehead"],
-[epub|type~="z3998:verse"] [epub|type~="bridgehead"]{
+[epub|type~="z3998:poem"],
+[epub|type~="z3998:verse"]{
 	text-align: justify;
 }
 
@@ -199,7 +187,7 @@ tr.together td + td{
 /* How He Lied to Her Husband */
 #the-showing-up-of-blanco-posnet [epub|type~="z3998:postscript"],
 #how-he-lied-to-her-husband [epub|type~="z3998:postscript"]{
-	margin-top: 2em;
+	margin-top: 1em;
 	text-align: initial;
 	text-indent: 0;
 }

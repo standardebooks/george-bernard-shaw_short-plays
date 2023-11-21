@@ -31,7 +31,10 @@
 		<meta property="se:subject">Drama</meta>
 		<dc:description id="description">A collection of sixteen short plays by Shaw.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Irish writer &lt;a href="https://standardebooks.org/ebooks/george-bernard-shaw"&gt;George Bernard Shaw&lt;/a&gt; began his career as a novelist. But he is most remembered as one of the greatest English-language playwrights of the modern era.&lt;/p&gt;
+			&lt;p&gt;Shaw’s best-known plays are his long-form, evening-length works like &lt;a href="https://standardebooks.org/ebooks/george-bernard-shaw/man-and-superman"&gt;&lt;i&gt;Man and Superman&lt;/i&gt;&lt;/a&gt;. But over his long career, he also wrote many shorter works,&lt;/p&gt;
+			&lt;p&gt;This edition collects Shaw’s English-language short plays published between 1901 and 1927. There are historical works like “The Dark Lady of the Sonnets,” which imagines a meeting between &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;William Shakespeare&lt;/a&gt; and Queen Elizabeth I, and “Great Catherine,” set in Imperial Russia. There are short farces like “How He Lied to Her Husband” and “The Fascinating Foundling,” and political pieces like “Press Cuttings” and “Augustus Does His Bit.” Then, too, there are serious works like the heartwrenching “The Showing Up of Blanco Posnet” and the existential drama “The Glimpse of Reality.”&lt;/p&gt;
+			&lt;p&gt;Where Shaw wrote prefaces to these shorter plays, they are also included here.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<meta property="se:production-notes">Shaw was a lifelong spelling reformer whose plays were printed in his lifetime with certain idiosyncrasies. To conform with modern standards, this edition adds apostrophes in words where Shaw typically omitted them, such as “dont” and “weve.” The spelling of certain words, including “shew” (“show”), have also been modernized, including in the title of the play “The Shewing-Up of Blanco Posnet.” In some cases this edition relies on multiple published editions for each play. For “The Admirable Bashwood,” the text used is that from Translations and Tomfooleries (1926), while the preface and afterword are taken from the 1907 edition of Cashel Byron’s Profession.</meta>
