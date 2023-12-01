@@ -213,7 +213,9 @@ tr.together td + td{
 }
 
 /* Press Cuttings */
-#press-cuttings-preface p:first-of-type{
+/* The Music Cure */
+#press-cuttings-preface p:first-of-type,
+#the-music-cure-preface p:first-of-type{
 	margin-top: 3em;
 }
 
