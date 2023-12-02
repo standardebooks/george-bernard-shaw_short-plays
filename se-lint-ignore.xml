@@ -6,13 +6,13 @@
 			<reason>Epigraph is fragmentary, no closing punctuation in original</reason>
 		</ignore>
 		<ignore>
-			<code>t-018</code>
+			<code>t-041</code>
 			<reason>Parser confused by line of dialogue made up entirely of punctuation.</reason>
 		</ignore>
 	</file>
 	<file path="o-flaherty-v-c.xhtml">
 		<ignore>
-			<code>t-018</code>
+			<code>t-041</code>
 			<reason>Parser confused by line of dialogue made up entirely of punctuation.</reason>
 		</ignore>
 		<ignore>
@@ -26,7 +26,7 @@
 	</file>
 	<file path="the-music-cure.xhtml">
 		<ignore>
-			<code>t-018</code>
+			<code>t-041</code>
 			<reason>Parser confused by line of dialogue made up entirely of punctuation.</reason>
 		</ignore>
 		<ignore>
