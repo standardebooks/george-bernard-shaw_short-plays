@@ -152,13 +152,16 @@
 		<meta property="role" refines="#transcriber-9" scheme="marc:relators">trc</meta>
 		<!-- Great Catherine -->
 		<dc:source>https://www.gutenberg.org/ebooks/3488</dc:source>
+		<dc:source>https://archive.org/details/heartbreakhouseg00shawrich</dc:source>
 		<dc:subject id="subject-13">Catherine II, Empress of Russia, 1729-1796 -- Drama</dc:subject>
 		<meta property="authority" refines="#subject-13">LCSH</meta>
 		<meta property="term" refines="#subject-13">Unknown</meta>
 		<!-- The Music Cure -->
 		<dc:source>https://en.wikisource.org/wiki/The_Music_Cure</dc:source>
+		<!-- image source same as The Admirable Bashville -->
 		<!-- The Inca of Perusalem -->
 		<dc:source>https://www.gutenberg.org/ebooks/3486</dc:source>
+		<!-- image source same as Great Catherine -->
 		<dc:subject id="subject-14">Princesses -- Drama</dc:subject>
 		<meta property="authority" refines="#subject-14">LCSH</meta>
 		<meta property="term" refines="#subject-14">sh2010108240</meta>
@@ -170,11 +173,13 @@
 		<meta property="term" refines="#subject-16">sh2008116057</meta>
 		<!-- Augustus Does His Bit -->
 		<dc:source>https://www.gutenberg.org/ebooks/3487</dc:source>
+		<!-- image source same as Great Catherine -->
 		<dc:subject id="subject-17">World War, 1914-1918 -- Great Britain -- Drama</dc:subject>
 		<meta property="authority" refines="#subject-17">LCSH</meta>
 		<meta property="term" refines="#subject-17">Unknown</meta>
 		<!-- O'Flaherty V.C. -->
 		<dc:source>https://www.gutenberg.org/ebooks/3484</dc:source>
+		<!-- image source same as Great Catherine -->
 		<dc:subject id="subject-18">Ireland -- Drama</dc:subject>
 		<meta property="authority" refines="#subject-18">LCSH</meta>
 		<meta property="term" refines="#subject-18">sh2008115496</meta>
@@ -186,6 +191,7 @@
 		<meta property="term" refines="#subject-20">Unknown</meta>
 		<!-- Annajanska -->
 		<dc:source>https://www.gutenberg.org/ebooks/3485</dc:source>
+		<!-- image source same as Great Catherine -->
 		<dc:subject id="subject-21">World War, 1914-1918 -- Drama</dc:subject>
 		<meta property="authority" refines="#subject-21">LCSH</meta>
 		<meta property="term" refines="#subject-21">sh2008113813</meta>
