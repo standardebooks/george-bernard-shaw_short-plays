@@ -170,19 +170,6 @@ tr.together td + td{
 	break-after: page;
 }
 
-/* The Dark Lady of the Sonnets */
-/* Great Catherine */
-/* Inca of Perusalem */
-/* Annajanska */
-#the-dark-lady-of-the-sonnets footer,
-#great-catherine footer,
-#the-inca-of-perusalem footer,
-#augustus-does-his-bit footer,
-#annajanska footer{
-	margin-top: 1em;
-	text-align: initial;
-}
-
 /* Blanco Posnet */
 /* How He Lied to Her Husband */
 #the-showing-up-of-blanco-posnet [epub|type~="z3998:postscript"],
