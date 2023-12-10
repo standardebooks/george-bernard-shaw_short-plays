@@ -52,10 +52,68 @@
 		<dc:contributor id="artist">Hippolyte Michaud</dc:contributor>
 		<meta property="file-as" refines="#artist">Michaud, Hippolyte</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
+		<!-- Text Sources -->
 		<!--The Admirable Bashville-->
 		<dc:source>https://www.gutenberg.org/ebooks/33085</dc:source>
+		<!-- How He Lied to Her Husband -->
+		<dc:source>https://www.gutenberg.org/ebooks/3544</dc:source>
+		<!-- Passion Poison and Petrifaction -->
+		<dc:source>https://en.wikisource.org/wiki/Passion,_Poison,_and_Petrifaction</dc:source>
+		<!-- The Interlude at the Playhouse -->
+		<dc:source>https://en.wikisource.org/wiki/The_Interlude_at_the_Playhouse</dc:source>
+		<!-- The Fascinating Foundling -->
+		<dc:source>https://gutenberg.net.au/ebooks03/0300461h.html</dc:source>
+		<!-- The Glimpse of Reality -->
+		<dc:source>https://gutenberg.net.au/ebooks03/0300471h.html</dc:source>
+		<!-- The Showing-Up of Blanco Posnet -->
+		<dc:source>https://www.gutenberg.org/ebooks/5722</dc:source>
+		<!-- Press Cuttings -->
+		<dc:source>https://www.gutenberg.org/ebooks/5723</dc:source>
+		<!-- The Dark Lady of the Sonnets -->
+		<dc:source>https://www.gutenberg.org/ebooks/1050</dc:source>
+		<!-- Overruled -->
+		<dc:source>https://www.gutenberg.org/ebooks/3830</dc:source>
+		<!-- Great Catherine -->
+		<dc:source>https://www.gutenberg.org/ebooks/3488</dc:source>
+		<!-- The Music Cure -->
+		<dc:source>https://en.wikisource.org/wiki/The_Music_Cure</dc:source>
+		<!-- The Inca of Perusalem -->
+		<dc:source>https://www.gutenberg.org/ebooks/3486</dc:source>
+		<!-- Augustus Does His Bit -->
+		<dc:source>https://www.gutenberg.org/ebooks/3487</dc:source>
+		<!-- O'Flaherty V.C. -->
+		<dc:source>https://www.gutenberg.org/ebooks/3484</dc:source>
+		<!-- Annajanska -->
+		<dc:source>https://www.gutenberg.org/ebooks/3485</dc:source>
+		<!-- Image Sources -->
+		<!-- Translations and Tomfooleries, source for: -->
+		<!-- +++ The Admirable Bashville (play text) -->
+		<!-- +++ Passion, Poison, and Petrifaction -->
+		<!-- +++ The Fascinating Foundling -->
+		<!-- +++ The Glimpse of Reality -->
+		<!-- +++ Press Cuttings -->
+		<!-- +++ The Music Cure -->
 		<dc:source>https://catalog.hathitrust.org/Record/001373880</dc:source>
+		<!-- The Admirable Bashville (preface and afterword) -->
 		<dc:source>https://catalog.hathitrust.org/Record/009978506</dc:source>
+		<!-- How He Lied to Her Husband -->
+		<dc:source>https://archive.org/details/johnbullsotheris00shawrich</dc:source>
+		<!-- The Interlude at the Playhouse -->
+		<dc:source>https://archive.org/details/behindsceneswith0000hims</dc:source>
+		<!-- The Showing-Up of Blanco Posnet -->
+		<dc:source>https://archive.org/details/doctorsdilemmage0000bern</dc:source>
+		<!-- The Dark Lady of the Sonnets -->
+		<dc:source>https://archive.org/details/misalliancedarkl0000shaw</dc:source>
+		<!-- Overruled -->
+		<dc:source>https://archive.org/details/androcleslionove00shawuoft</dc:source>
+		<!-- Heartbreak House, source for: -->
+		<!-- +++ Great Catherine -->
+		<!-- +++ The Inca of Perusalem -->
+		<!-- +++ Augustus Does His Bit -->
+		<!-- +++ O'Flaherty V.C. -->
+		<!-- +++ Annajanska -->
+		<dc:source>https://archive.org/details/heartbreakhouseg00shawrich</dc:source>
+		<!-- Transcribers -->
 		<dc:contributor id="transcriber-1">Chuck Greif</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Greif, Chuck</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
@@ -66,21 +124,34 @@
 		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
 		<meta property="se:url.homepage" refines="#transcriber-3">https://www.pgdp.net</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:subject id="subject-1">Boxing</dc:subject>
-		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">sh85016186</meta>
-		<dc:subject id="subject-2">Boxing -- Drama</dc:subject>
-		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">Unknown</meta>
-		<!-- How He Lied to Her Husband -->
-		<dc:source>https://www.gutenberg.org/ebooks/3544</dc:source>
-		<dc:source>https://archive.org/details/johnbullsotheris00shawrich/</dc:source>
 		<dc:contributor id="transcriber-4">Eve Sobol</dc:contributor>
 		<meta property="file-as" refines="#transcriber-4">Sobol, Eve</meta>
 		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-5">David Widger</dc:contributor>
 		<meta property="file-as" refines="#transcriber-5">Widger, David</meta>
 		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-n">Wugo</dc:contributor>
+		<meta property="file-as" refines="#transcriber-n">Wugo</meta>
+		<meta property="role" refines="#transcriber-n" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-6">Don Lainson</dc:contributor>
+		<meta property="file-as" refines="#transcriber-6">Lainson, Don</meta>
+		<meta property="role" refines="#transcriber-6" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-7">Ron Burkey</dc:contributor>
+		<meta property="file-as" refines="#transcriber-7">Burkey, Ron</meta>
+		<meta property="role" refines="#transcriber-7" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-8">Amy Thomte</dc:contributor>
+		<meta property="file-as" refines="#transcriber-8">Thomte, Amy</meta>
+		<meta property="role" refines="#transcriber-8" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-9">Al Haines</dc:contributor>
+		<meta property="file-as" refines="#transcriber-9">Haines, Al</meta>
+		<meta property="role" refines="#transcriber-9" scheme="marc:relators">trc</meta>
+		<!-- Subjects -->
+		<dc:subject id="subject-1">Boxing</dc:subject>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85016186</meta>
+		<dc:subject id="subject-2">Boxing -- Drama</dc:subject>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">Unknown</meta>
 		<dc:subject id="subject-3">English drama (Comedy)</dc:subject>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh85043353</meta>
@@ -93,27 +164,6 @@
 		<dc:subject id="subject-6">London (England)--Drama</dc:subject>
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">sh2008116057</meta>
-		<!-- Passion Poison and Petrifaction -->
-		<dc:source>https://en.wikisource.org/wiki/Passion,_Poison,_and_Petrifaction</dc:source>
-		<!-- image source same as The Admirable Bashville -->
-		<dc:contributor id="transcriber-n">Wugo</dc:contributor>
-		<meta property="file-as" refines="#transcriber-n">Wugo</meta>
-		<meta property="role" refines="#transcriber-n" scheme="marc:relators">trc</meta>
-		<!-- The Interlude at the Playhouse -->
-		<dc:source>https://en.wikisource.org/wiki/The_Interlude_at_the_Playhouse</dc:source>
-		<dc:source>https://archive.org/details/behindsceneswith0000hims/</dc:source>
-		<!-- The Fascinating Foundling -->
-		<dc:source>https://gutenberg.net.au/ebooks03/0300461h.html</dc:source>
-		<dc:contributor id="transcriber-6">Don Lainson</dc:contributor>
-		<meta property="file-as" refines="#transcriber-6">Lainson, Don</meta>
-		<meta property="role" refines="#transcriber-6" scheme="marc:relators">trc</meta>
-		<!-- image source same as The Admirable Bashville -->
-		<!-- The Glimpse of Reality -->
-		<dc:source>https://gutenberg.net.au/ebooks03/0300471h.html</dc:source>
-		<!-- image source same as The Admirable Bashville -->
-		<!-- The Showing-Up of Blanco Posnet -->
-		<dc:source>https://www.gutenberg.org/ebooks/5722</dc:source>
-		<dc:source>https://archive.org/details/doctorsdilemmage0000bern/</dc:source>
 		<dc:subject id="subject-7">Censorship</dc:subject>
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">sh85021828</meta>
@@ -123,63 +173,30 @@
 		<dc:subject id="subject-9">West (U.S.) -- Drama</dc:subject>
 		<meta property="authority" refines="#subject-9">LCSH</meta>
 		<meta property="term" refines="#subject-9">sh2014000895</meta>
-		<!-- Press Cuttings -->
-		<dc:source>https://www.gutenberg.org/ebooks/5723</dc:source>
-		<!-- image source same as The Admirable Bashville -->
 		<dc:subject id="subject-10">Women -- Suffrage -- Great Britain -- Drama</dc:subject>
 		<meta property="authority" refines="#subject-10">LCSH</meta>
 		<meta property="term" refines="#subject-10">Unknown</meta>
-		<!-- The Dark Lady of the Sonnets -->
-		<dc:source>https://www.gutenberg.org/ebooks/1050</dc:source>
-		<dc:source>https://archive.org/details/misalliancedarkl0000shaw/</dc:source>
-		<dc:contributor id="transcriber-7">Ron Burkey</dc:contributor>
-		<meta property="file-as" refines="#transcriber-7">Burkey, Ron</meta>
-		<meta property="role" refines="#transcriber-7" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-8">Amy Thomte</dc:contributor>
-		<meta property="file-as" refines="#transcriber-8">Thomte, Amy</meta>
-		<meta property="role" refines="#transcriber-8" scheme="marc:relators">trc</meta>
 		<dc:subject id="subject-11">Man-woman relationships -- Drama</dc:subject>
 		<meta property="authority" refines="#subject-11">LCSH</meta>
 		<meta property="term" refines="#subject-11">sh2008107215</meta>
 		<dc:subject id="subject-12">Fitton, Mary, 1578?-1641 -- Drama</dc:subject>
 		<meta property="authority" refines="#subject-12">LCSH</meta>
 		<meta property="term" refines="#subject-12">Unknown</meta>
-		<!-- Overruled -->
-		<dc:source>https://www.gutenberg.org/ebooks/3830</dc:source>
-		<dc:source>https://archive.org/details/androcleslionove00shawuoft</dc:source>
-		<dc:contributor id="transcriber-9">Al Haines</dc:contributor>
-		<meta property="file-as" refines="#transcriber-9">Haines, Al</meta>
-		<meta property="role" refines="#transcriber-9" scheme="marc:relators">trc</meta>
-		<!-- Great Catherine -->
-		<dc:source>https://www.gutenberg.org/ebooks/3488</dc:source>
-		<dc:source>https://archive.org/details/heartbreakhouseg00shawrich</dc:source>
 		<dc:subject id="subject-13">Catherine II, Empress of Russia, 1729-1796 -- Drama</dc:subject>
 		<meta property="authority" refines="#subject-13">LCSH</meta>
 		<meta property="term" refines="#subject-13">Unknown</meta>
-		<!-- The Music Cure -->
-		<dc:source>https://en.wikisource.org/wiki/The_Music_Cure</dc:source>
-		<!-- image source same as The Admirable Bashville -->
-		<!-- The Inca of Perusalem -->
-		<dc:source>https://www.gutenberg.org/ebooks/3486</dc:source>
-		<!-- image source same as Great Catherine -->
 		<dc:subject id="subject-14">Princesses -- Drama</dc:subject>
 		<meta property="authority" refines="#subject-14">LCSH</meta>
 		<meta property="term" refines="#subject-14">sh2010108240</meta>
-		<dc:subject id="subject-15">Princesses -- Drama</dc:subject>
+		<dc:subject id="subject-15">Widows -- Drama</dc:subject>
 		<meta property="authority" refines="#subject-15">LCSH</meta>
 		<meta property="term" refines="#subject-15">sh2010118530</meta>
-		<dc:subject id="subject-16">Princesses -- Drama</dc:subject>
+		<dc:subject id="subject-16">London (England) -- Drama</dc:subject>
 		<meta property="authority" refines="#subject-16">LCSH</meta>
 		<meta property="term" refines="#subject-16">sh2008116057</meta>
-		<!-- Augustus Does His Bit -->
-		<dc:source>https://www.gutenberg.org/ebooks/3487</dc:source>
-		<!-- image source same as Great Catherine -->
 		<dc:subject id="subject-17">World War, 1914-1918 -- Great Britain -- Drama</dc:subject>
 		<meta property="authority" refines="#subject-17">LCSH</meta>
 		<meta property="term" refines="#subject-17">Unknown</meta>
-		<!-- O'Flaherty V.C. -->
-		<dc:source>https://www.gutenberg.org/ebooks/3484</dc:source>
-		<!-- image source same as Great Catherine -->
 		<dc:subject id="subject-18">Ireland -- Drama</dc:subject>
 		<meta property="authority" refines="#subject-18">LCSH</meta>
 		<meta property="term" refines="#subject-18">sh2008115496</meta>
@@ -189,9 +206,6 @@
 		<dc:subject id="subject-20">World War, 1914-1918 -- Veterans -- Drama</dc:subject>
 		<meta property="authority" refines="#subject-20">LCSH</meta>
 		<meta property="term" refines="#subject-20">Unknown</meta>
-		<!-- Annajanska -->
-		<dc:source>https://www.gutenberg.org/ebooks/3485</dc:source>
-		<!-- image source same as Great Catherine -->
 		<dc:subject id="subject-21">World War, 1914-1918 -- Drama</dc:subject>
 		<meta property="authority" refines="#subject-21">LCSH</meta>
 		<meta property="term" refines="#subject-21">sh2008113813</meta>
