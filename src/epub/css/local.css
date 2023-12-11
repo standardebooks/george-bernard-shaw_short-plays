@@ -31,11 +31,6 @@ article > header{
 	text-align: center;
 }
 
-/* Remove text indent from scene description */
-[epub|type~="z3998:scene"] > p{
-	text-indent: 0;
-}
-
 /* Dialogue table */
 [epub|type~="z3998:drama"] table{
 	border-collapse: collapse;
