@@ -172,17 +172,11 @@ tr.together td + td{
 
 /* Blanco Posnet */
 /* How He Lied to Her Husband */
-#the-showing-up-of-blanco-posnet [epub|type~="z3998:postscript"],
-#how-he-lied-to-her-husband [epub|type~="z3998:postscript"]{
+#the-showing-up-of-blanco-posnet-preface-5 section:last-of-type,
+#how-he-lied-to-her-husband-preface section:last-of-type{
 	margin-top: 1em;
 	text-align: initial;
 	text-indent: 0;
-}
-
-/* Blanco Posnet */
-#the-showing-up-of-blanco-posnet footer{
-	margin-top: 1em;
-	text-align: initial;
 }
 
 #the-showing-up-of-blanco-posnet-preface-4 ol:nth-of-type(1){
