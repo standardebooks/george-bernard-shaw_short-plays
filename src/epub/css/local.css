@@ -138,13 +138,18 @@ tr.together td + td{
 	padding-left: .5em;
 }
 
-/* All epigraphs */
+/* Epigraphs */
 [epub|type~="epigraph"]{
 	font-style: italic;
 	hyphens: none;
 	-epub-hyphens: none;
 }
-/* End all epigraphs */
+
+[epub|type~="epigraph"] cite{
+	font-style: normal;
+	font-variant: small-caps;
+	margin-top: 1em;
+}
 
 /* Bridgeheads */
 [epub|type~="bridgehead"]{
