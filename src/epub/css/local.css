@@ -189,12 +189,12 @@ tr.together td + td{
 	text-indent: 0;
 }
 
-#the-showing-up-of-blanco-posnet-preface-4 ol:nth-of-type(1){
+#the-showing-up-of-blanco-posnet-preface-4 ol{
 	list-style-type: decimal;
 	margin-bottom: 0;
 }
 
-#the-showing-up-of-blanco-posnet-preface-4 ol:nth-of-type(2){
+#the-showing-up-of-blanco-posnet-preface-4 ol li ol{
 	list-style-type: upper-alpha;
 	margin-top: 0;
 }
