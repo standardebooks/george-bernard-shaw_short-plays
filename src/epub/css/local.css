@@ -173,17 +173,15 @@ tr.together td + td{
 /* Play-specific CSS */
 /* The Admirable Bashville */
 /* Inca of Perusalem */
-#the-admirable-bashville-act-1,
-#the-admirable-bashville-act-2,
-#the-admirable-bashville-act-3,
+#the-admirable-bashville [epub|type~="bodymatter"],
 #the-inca-of-perusalem-prologue{
 	break-after: page;
 }
 
 /* Blanco Posnet */
 /* How He Lied to Her Husband */
-#the-showing-up-of-blanco-posnet-preface-5 section:last-of-type,
-#how-he-lied-to-her-husband-preface section:last-of-type{
+#the-showing-up-of-blanco-posnet-preface-5-postscript,
+#how-he-lied-to-her-husband-preface-postscript{
 	margin-top: 1em;
 	text-align: initial;
 	text-indent: 0;
@@ -201,13 +199,6 @@ tr.together td + td{
 
 #the-showing-up-of-blanco-posnet-preface-5 ol{
 	list-style-type: lower-alpha;
-}
-
-/* Press Cuttings */
-/* The Music Cure */
-#press-cuttings-preface p:first-of-type,
-#the-music-cure-preface p:first-of-type{
-	margin-top: 3em;
 }
 
 /* Miscellaneous */
