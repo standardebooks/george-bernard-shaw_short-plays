@@ -113,7 +113,7 @@
 		<dc:language>en-GB</dc:language>
 		<meta property="se:production-notes">Shaw was a lifelong spelling reformer whose plays were printed in his lifetime with certain idiosyncrasies. To conform with modern standards, this edition adds apostrophes in words where Shaw typically omitted them, such as “dont” and “weve.” The spelling of certain words, including “shew” (“show”), have also been modernized, including in the title of the play “The Shewing-Up of Blanco Posnet.” In some cases this edition relies on multiple published editions for each play. For “The Admirable Bashwood,” the text used is that from Translations and Tomfooleries (1926), while the preface and afterword are taken from the 1907 edition of Cashel Byron’s Profession.</meta>
 		<meta property="se:is-a-collection">true</meta>
-		<meta property="se:word-count">170013</meta>
+		<meta property="se:word-count">166772</meta>
 		<meta property="se:reading-ease.flesch">74.9</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-bernard-shaw_short-plays</meta>
 		<dc:creator id="author">George Bernard Shaw</dc:creator>
