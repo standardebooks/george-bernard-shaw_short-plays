@@ -2,25 +2,36 @@
 <se-lint-ignore>
 	<file path="great-catherine.xhtml">
 		<ignore code="t-011">
+			<line>13</line>
 			<reason>Epigraph is fragmentary, no closing punctuation in original</reason>
 		</ignore>
 		<ignore code="t-041">
+			<line>88</line>
+			<line>124</line>
+			<line>382</line>
+			<line>611</line>
+			<line>631</line>
+			<line>957</line>
 			<reason>Parser confused by line of dialogue made up entirely of punctuation.</reason>
 		</ignore>
 	</file>
 	<file path="o-flaherty-v-c.xhtml">
 		<ignore code="t-041">
+			<line>227</line>
 			<reason>Parser confused by line of dialogue made up entirely of punctuation.</reason>
 		</ignore>
 		<ignore code="t-052">
+			<line>879</line>
 			<reason>Stage direction is an interjection correctly formatted.</reason>
 		</ignore>
 	</file>
 	<file path="the-music-cure.xhtml">
 		<ignore code="t-041">
+			<line>578</line>
 			<reason>Parser confused by line of dialogue made up entirely of punctuation.</reason>
 		</ignore>
 		<ignore code="t-052">
+			<line>208</line>
 			<reason>Stage direction is an interjection correctly formatted.</reason>
 		</ignore>
 	</file>
