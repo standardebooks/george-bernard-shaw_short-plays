@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="great-catherine.xhtml">
-		<ignore code="t-011">
-			<line>13</line>
-			<reason>Epigraph is fragmentary, no closing punctuation in original</reason>
-		</ignore>
 		<ignore code="t-041">
 			<line>88</line>
 			<line>124</line>
