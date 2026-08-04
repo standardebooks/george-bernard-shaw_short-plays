@@ -104,7 +104,7 @@
 		<meta property="authority" refines="#subject-24">LCSH</meta>
 		<meta property="term" refines="#subject-24">Unknown</meta>
 		<meta property="schema:genre">Drama</meta>
-		<dc:abstract>A collection of sixteen short plays by George Bernard Shaw.</dc:abstract>
+		<meta property="schema:abstract">A collection of sixteen short plays by George Bernard Shaw.</meta>
 		<dc:description>
 			&lt;p&gt;Irish writer &lt;a href="https://standardebooks.org/ebooks/george-bernard-shaw"&gt;George Bernard Shaw&lt;/a&gt; began his career as a novelist. But he is most remembered as one of the greatest English-language playwrights of the modern era.&lt;/p&gt;
 			&lt;p&gt;Shaw’s best-known plays are his long-form, evening-length works like &lt;a href="https://standardebooks.org/ebooks/george-bernard-shaw/man-and-superman"&gt;&lt;i&gt;Man and Superman&lt;/i&gt;&lt;/a&gt;. But over his long career, he also wrote many shorter works.&lt;/p&gt;
