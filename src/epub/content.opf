@@ -34,7 +34,7 @@
 		<dc:subject id="subject-1">Boxing</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85016186</meta>
-		<dc:subject id="subject-2">Boxing -- Drama</dc:subject>
+		<dc:subject id="subject-2">Boxing--Drama</dc:subject>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<dc:subject id="subject-3">English drama (Comedy)</dc:subject>
@@ -52,55 +52,55 @@
 		<dc:subject id="subject-7">Censorship</dc:subject>
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">sh85021828</meta>
-		<dc:subject id="subject-8">Horse stealing -- Drama</dc:subject>
+		<dc:subject id="subject-8">Horse stealing--Drama</dc:subject>
 		<meta property="authority" refines="#subject-8">LCSH</meta>
 		<meta property="term" refines="#subject-8">Unknown</meta>
-		<dc:subject id="subject-9">West (U.S.) -- Drama</dc:subject>
+		<dc:subject id="subject-9">West (U.S.)--Drama</dc:subject>
 		<meta property="authority" refines="#subject-9">LCSH</meta>
 		<meta property="term" refines="#subject-9">sh2014000895</meta>
-		<dc:subject id="subject-10">Women -- Suffrage -- Great Britain -- Drama</dc:subject>
+		<dc:subject id="subject-10">Women--Suffrage--Great Britain--Drama</dc:subject>
 		<meta property="authority" refines="#subject-10">LCSH</meta>
 		<meta property="term" refines="#subject-10">Unknown</meta>
-		<dc:subject id="subject-11">Man-woman relationships -- Drama</dc:subject>
+		<dc:subject id="subject-11">Man-woman relationships--Drama</dc:subject>
 		<meta property="authority" refines="#subject-11">LCSH</meta>
 		<meta property="term" refines="#subject-11">sh2008107215</meta>
-		<dc:subject id="subject-12">Fitton, Mary, 1578?-1641 -- Drama</dc:subject>
+		<dc:subject id="subject-12">Fitton, Mary, 1578?-1641--Drama</dc:subject>
 		<meta property="authority" refines="#subject-12">LCSH</meta>
 		<meta property="term" refines="#subject-12">Unknown</meta>
-		<dc:subject id="subject-13">Catherine II, Empress of Russia, 1729-1796 -- Drama</dc:subject>
+		<dc:subject id="subject-13">Catherine II, Empress of Russia, 1729-1796--Drama</dc:subject>
 		<meta property="authority" refines="#subject-13">LCSH</meta>
 		<meta property="term" refines="#subject-13">Unknown</meta>
-		<dc:subject id="subject-14">Princesses -- Drama</dc:subject>
+		<dc:subject id="subject-14">Princesses--Drama</dc:subject>
 		<meta property="authority" refines="#subject-14">LCSH</meta>
 		<meta property="term" refines="#subject-14">sh2010108240</meta>
-		<dc:subject id="subject-15">Widows -- Drama</dc:subject>
+		<dc:subject id="subject-15">Widows--Drama</dc:subject>
 		<meta property="authority" refines="#subject-15">LCSH</meta>
 		<meta property="term" refines="#subject-15">sh2010118530</meta>
-		<dc:subject id="subject-16">London (England) -- Drama</dc:subject>
+		<dc:subject id="subject-16">London (England)--Drama</dc:subject>
 		<meta property="authority" refines="#subject-16">LCSH</meta>
 		<meta property="term" refines="#subject-16">sh2008116057</meta>
-		<dc:subject id="subject-17">World War, 1914-1918 -- Great Britain -- Drama</dc:subject>
+		<dc:subject id="subject-17">World War, 1914-1918--Great Britain--Drama</dc:subject>
 		<meta property="authority" refines="#subject-17">LCSH</meta>
 		<meta property="term" refines="#subject-17">Unknown</meta>
-		<dc:subject id="subject-18">Ireland -- Drama</dc:subject>
+		<dc:subject id="subject-18">Ireland--Drama</dc:subject>
 		<meta property="authority" refines="#subject-18">LCSH</meta>
 		<meta property="term" refines="#subject-18">sh2008115496</meta>
-		<dc:subject id="subject-19">World War, 1914-1918 -- Ireland -- Drama</dc:subject>
+		<dc:subject id="subject-19">World War, 1914-1918--Ireland--Drama</dc:subject>
 		<meta property="authority" refines="#subject-19">LCSH</meta>
 		<meta property="term" refines="#subject-19">Unknown</meta>
-		<dc:subject id="subject-20">World War, 1914-1918 -- Veterans -- Drama</dc:subject>
+		<dc:subject id="subject-20">World War, 1914-1918--Veterans--Drama</dc:subject>
 		<meta property="authority" refines="#subject-20">LCSH</meta>
 		<meta property="term" refines="#subject-20">Unknown</meta>
-		<dc:subject id="subject-21">World War, 1914-1918 -- Drama</dc:subject>
+		<dc:subject id="subject-21">World War, 1914-1918--Drama</dc:subject>
 		<meta property="authority" refines="#subject-21">LCSH</meta>
 		<meta property="term" refines="#subject-21">sh2008113813</meta>
-		<dc:subject id="subject-22">Communism -- Drama</dc:subject>
+		<dc:subject id="subject-22">Communism--Drama</dc:subject>
 		<meta property="authority" refines="#subject-22">LCSH</meta>
 		<meta property="term" refines="#subject-22">Unknown</meta>
-		<dc:subject id="subject-23">Nobility -- Drama</dc:subject>
+		<dc:subject id="subject-23">Nobility--Drama</dc:subject>
 		<meta property="authority" refines="#subject-23">LCSH</meta>
 		<meta property="term" refines="#subject-23">Unknown</meta>
-		<dc:subject id="subject-24">Soviet Union -- Drama</dc:subject>
+		<dc:subject id="subject-24">Soviet Union--Drama</dc:subject>
 		<meta property="authority" refines="#subject-24">LCSH</meta>
 		<meta property="term" refines="#subject-24">Unknown</meta>
 		<meta property="schema:genre">Drama</meta>
